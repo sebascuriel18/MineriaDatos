@@ -13,4 +13,6 @@
 [Presentacion de tecnicas](https://github.com/sebascuriel18/MineriaDatos/blob/main/Presentacion_%7BDeteccion-de-outliers%7D_%7BEquipo.11%7D.pdf)
 
 [Miniexamenes de tecnicas](https://github.com/sebascuriel18/MineriaDatos/blob/main/Calificacion_Deteccion-de-outliers_Equipo_11.pdf)
+
+[Mapa Mental 2](https://github.com/sebascuriel18/MineriaDatos/blob/main/MapaMental_2_1941456.pdf)
 ## Fase 3
