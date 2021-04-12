@@ -15,4 +15,6 @@
 [Miniexamenes de tecnicas](https://github.com/sebascuriel18/MineriaDatos/blob/main/Calificacion_Deteccion-de-outliers_Equipo_11.pdf)
 
 [Mapa Mental 2](https://github.com/sebascuriel18/MineriaDatos/blob/main/MapaMental_2_1941456.pdf)
+
+[Practica de visualización](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/Visualizacion_Equipo11.ipynb)
 ## Fase 3
