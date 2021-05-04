@@ -25,3 +25,7 @@
 [Segunda entrega del PIA (corregido)](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/AvancePIA_2.0_II_Grupo_003_11.ipynb)
 ## Fase 3
 [Avance del poster](https://github.com/sebascuriel18/MineriaDatos/blob/main/Avance_Poster_Equipo11.pdf)
+
+[Codigo nuevo del poster](https://github.com/AlbertoSO324/Mineria_Datos/blob/770fe670d50414a640bf6cbbeb97b854264134d8/AvancePIA_3.0_II_Grupo_003_Equipo_11.ipynb)
+
+[PIA Poster Final](https://github.com/HectorENP/Mineria-de-Datos-003/blob/main/PIA_Equipo11.pdf)
